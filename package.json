@@ -15,6 +15,11 @@
                 "label": "mono dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mono-color-theme.json"
+            },
+            {
+                "label": "mono white",
+                "uiTheme": "vs",
+                "path": "./themes/mono-white-color-theme.json"
             }
         ]
     }
