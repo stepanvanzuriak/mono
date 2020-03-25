@@ -3,11 +3,19 @@
     "displayName": "mono",
     "description": "Monochrome dark and white theme",
     "version": "0.0.1",
+    "publisher": "StepanVanzuriak",
+    "repository": "https://github.com/stepanvanzuriak/mono",
     "engines": {
         "vscode": "^1.43.0"
     },
+    "icon": "circle.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme",
+        "monochrome"
     ],
     "contributes": {
         "themes": [
