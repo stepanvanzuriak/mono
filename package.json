@@ -1,34 +1,34 @@
 {
-    "name": "mono",
-    "displayName": "mono",
-    "description": "Monochrome dark and white theme",
-    "version": "0.0.1",
-    "publisher": "StepanVanzuriak",
-    "repository": "https://github.com/stepanvanzuriak/mono",
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "icon": "circle.png",
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "theme",
-        "color-theme",
-        "monochrome"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "mono dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/mono-color-theme.json"
-            },
-            {
-                "label": "mono white",
-                "uiTheme": "vs",
-                "path": "./themes/mono-white-color-theme.json"
-            }
-        ]
-    }
+  "name": "mono",
+  "displayName": "mono",
+  "description": "Monochrome dark and white theme",
+  "version": "0.0.2",
+  "publisher": "StepanVanzuriak",
+  "repository": "https://github.com/stepanvanzuriak/mono",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "icon": "circle.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "monochrome"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mono dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mono-color-theme.json"
+      },
+      {
+        "label": "mono white",
+        "uiTheme": "vs",
+        "path": "./themes/mono-white-color-theme.json"
+      }
+    ]
+  }
 }
